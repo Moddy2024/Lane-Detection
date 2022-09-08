@@ -1,5 +1,6 @@
 # Lane-Detection
 Lane-Detection system used to predict the lane in which a car will be able to drive. In this project, I use a deep learning-based approach using a fully convolutional network to output an image of a predicted lane. This architecture is based on SegNet an Encoder-Decoder Architecture for Image Segmentation.
+![](https://github.com/Moddy2024/Lane-Detection/blob/main/gif.gif)
 
 # Software requirements
 To be able to run this you need to have installed
