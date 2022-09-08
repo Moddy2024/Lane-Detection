@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Lane-Detection
 Lane-Detection system used to predict the lane in which a car will be able to drive. In this project, I use a deep learning-based approach using a fully convolutional network to output an image of a predicted lane. This architecture is based on SegNet an Encoder-Decoder Architecture for Image Segmentation.
 
@@ -29,4 +28,4 @@ The full set of images used are [here](https://www.dropbox.com/s/rrh8lrdclzlnxzv
 
 =======
 # Lane-Detection
->>>>>>> origin
+
