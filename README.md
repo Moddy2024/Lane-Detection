@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Lane-Detection
 Lane-Detection system used to predict the lane in which a car will be able to drive. In this project, I use a deep learning-based approach using a fully convolutional network to output an image of a predicted lane. This architecture is based on SegNet an Encoder-Decoder Architecture for Image Segmentation.
 
@@ -26,3 +27,6 @@ The images were collected from a mix of different times of day, weather, traffic
 # Dataset
 The full set of images used are [here](https://www.dropbox.com/s/rrh8lrdclzlnxzv/full_CNN_train.p?dl=0) and the full set of labels (which are just the 'G' channel from an RGB image of a re-drawn lane) [here](https://www.dropbox.com/s/ak850zqqfy6ily0/full_CNN_labels.p?dl=0)
 
+=======
+# Lane-Detection
+>>>>>>> origin
