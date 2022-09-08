@@ -12,9 +12,9 @@ To be able to run this you need to have installed
 * MoviePy
 
 # Key Files
-* [lane detection.ipynb](https://github.com/HevaAi/Lane-Detection/blob/main/lane%20detection.ipynb) - Here is the fully convolutional neural network used and also a bit of image transformation was done.
-* [models](https://github.com/HevaAi/Lane-Detection/tree/main/models) - These are the final outputs from the trained model. They are available in h5,tar and pth format.
-* [model prediction.ipynb](https://github.com/HevaAi/Lane-Detection/blob/main/model%20prediction.ipynb) -  Using any one of the trained model files from the above folder and an input video, this predicts the lane, and returns the original video with predicted lane lines drawn onto it.
+* [lane detection.ipynb](https://github.com/Moddy2024/Lane-Detection/blob/main/lane%20detection.ipynb) - Here is the fully convolutional neural network used and also a bit of image transformation was done.
+* [models](https://github.com/Moddy2024/Lane-Detection/tree/main/models) - These are the final outputs from the trained model. They are available in h5,tar and pth format.
+* [model prediction.ipynb](https://github.com/Moddy2024/Lane-Detection/blob/main/model%20prediction.ipynb) -  Using any one of the trained model files from the above folder and an input video, this predicts the lane, and returns the original video with predicted lane lines drawn onto it.
 
 # Training and Validation Image Statistics
 The images were collected from a mix of different times of day, weather, traffic, and road curvatures.
