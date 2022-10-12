@@ -5,13 +5,14 @@ Lane-Detection system used to predict the lane in which a car will be able to dr
 
 # Software requirements
 To be able to run this you need to have installed
-* Tensorflow
-* OpenCV
-* Numpy
-* pickle
+* [Tensorflow](https://www.tensorflow.org/tutorials)
+* [OpenCV](https://opencv.org/)
+* [Numpy](https://numpy.org/)
+* [Pickle](https://docs.python.org/3/library/pickle.html)
 * Scipy version 1.1.0
-* Scikit learn
-* MoviePy
+* [Scikit learn](https://scikit-learn.org/stable/)
+* [MoviePy](https://pypi.org/project/moviepy/)
+* [Keras](https://keras.io/)
 
 # Key Files
 * [lane detection.ipynb](https://github.com/Moddy2024/Lane-Detection/blob/main/lane%20detection.ipynb) - In this file it shows how the data has been normalized, the training of the model is also present here and you can see the CNN that has been used here.
