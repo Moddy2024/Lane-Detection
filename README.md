@@ -3,6 +3,11 @@ Lane-Detection system used to predict the lane in which a car will be able to dr
 
   ![](https://github.com/Moddy2024/Lane-Detection/blob/main/gif.gif)
 
+# Architecture
+SegNet is a semantic segmentation model. This core trainable segmentation architecture consists of an encoder network, a corresponding decoder network followed by a pixel-wise classification layer.
+
+  ![](https://github.com/Moddy2024/Lane-Detection/blob/main/encoder_Decoder.png)
+                                            *This is the visualization of the architecture of the CNN model that is being used for Lane Detection.*
 # Software requirements
 To be able to run this you need to have installed
 * [Tensorflow](https://www.tensorflow.org/tutorials)
